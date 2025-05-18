@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Eclipse/IDE
+.metadata/
+*.log
+*.tmp
+*.swp
+*.swo
+*.swn
+*.bak
+*.class
+.vscode/
+
+# Output folders
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sonar
+.sonarlint/
